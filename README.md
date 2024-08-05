@@ -1,6 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I’m Aditi
 
-👋 Hi, I’m Aditi
 - 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me: aditivjoshi0@gmail.com
 <!--
