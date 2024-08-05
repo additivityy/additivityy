@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+👋 Hi, I’m Aditi
+👀 I’m interested in Full Stack Web Development
+📫 How to reach me: aditivjoshi0@gmail.com
 <!--
 **aditivjoshi/aditivjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
